@@ -1,0 +1,1 @@
+package culture;/** * Form for recording data about a setting or an identification (including * modifier). */class Phrase {	int modifierWordNumber, nounWordNumber;	public Phrase(int theModifier, int theNoun) { // Constructor method.		modifierWordNumber = theModifier;		nounWordNumber = theNoun;	}}
